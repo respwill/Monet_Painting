@@ -3,3 +3,4 @@ lightning_logs/
 monet_tfrec/
 photo_jpg/
 photo_tfrec/
+wandb/
